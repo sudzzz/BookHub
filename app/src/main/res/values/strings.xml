@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Menu</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Welcome Sudhir Daga.</string>
+    <string name="about_app_fragment">App made in Android Training with Internshala that uses internet. It is implementing an e-library for e-book store</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="action_sort">Action Sort</string>
+</resources>
